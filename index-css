@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	font-family: "Vanadine";
+	color: white;
+	font-size: 20px;
+	background-color:#FFFF;
+	height: 200px;
+	padding:10px;
+}
+
+#menu{
+	text-align: center;
+	background-color:rgba(0,0,0,0.5); 
+	position: fixed;
+	height: 20px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 99%;
+	padding: 10px 0;
+}
+
+#menu a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+#menu a{
+	padding: 0 40px;
+	color: inherit;
+	text-decoration: none;
+	float: center;
+}
+ 
+#div_principal{
+	background-size: 100%;
+	background-image: url('https://i.imgur.com/U5eu2gI.jpg');
+	min-height: 400px;
+	padding: 80px 0 0 0;
+	clear: both;
+}
+
+#menu_imagem a{
+	clear: both;
+	float: right;
+	color: black;
+	text-decoration: none;
+
+}
+
+#logo {
+	float: left;
+}
+
+#menu2{
+	float: right;
+	margin-top: 100px;
+
+}
+
+#menu2 a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 30px;
+}
+
+#menu2 a:hover{
+	background-color: black;
+	color: white;
+}
+
+
+p{
+	font-family: Tahoma;
+	text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+
+h1{
+	font-family: 'Vanadine';
+	text-align: center;
+	color: #FFFF;
+	margin: 0 0 50px 0;
+	text-shadow: 1px 1px 1px #111111;
+}
+
+footer{
+	clear: both;
+	background-color: #FFFF;
+	height: 30px;
+	text-align: center;
+	color: white;
+	padding: 30px;
+	font-family: "Vanadine";
+	font-weight: bold;
+	color: #000000;
+	text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+.container{
+	width: 960px;
+	margin:auto;
+
+
+}
+
+.efeito{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 80px 0 80px 0;
+
+}
