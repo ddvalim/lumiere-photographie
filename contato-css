@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#menu{
+	background: rgba(0,0,0,0.5);
+	color: white;
+	position: fixed;
+	height: 20px;
+	width: 100%;
+	top: 0;
+	left: 0;
+	text-align: center;
+	z-index: 99%;
+	padding: 10px 0;
+	font-family: "Vanadine";
+	font-size:20px;
+}
+header{
+	font-family: "Vanadine";
+	color: white;
+	font-size: 20px;
+	background-color:#FFFF;
+	height: 200px;
+	padding:10px;
+	
+
+}
+#menu a{
+	text-decoration: none;
+	padding: 0 40px;
+	color:inherit;
+
+}
+
+#logo{
+	float: left;
+}
+
+.container{
+	margin: auto;
+	width: 960px;
+	clear: both;
+}
+
+p{
+	font-family: "Vanadine";
+	font-size: 40px;
+	text-align: center;
+	padding: 30px;
+	color: white;
+	text-shadow: 1px 1px 1px #FFFF;
+}
+
+#background{
+	background-image: url('https://i.imgur.com/4odf17j.jpg');
+	background-size: 100%;
+	min-height: 400px;
+	background-position: center;
+	padding: 80px 0 0 0;
+	clear: both;
+
+}
+
+#contato{
+	font-family: Vanadine;
+	color: white;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px #FFFF;
+	text-align: center;
+}
+
+#contato a{
+	text-decoration: none;
+	padding: 0 40px;
+	color:inherit;
+}
+
+footer{
+	clear: both;
+	background-color: #FFFF;
+	height: 30px;
+	text-align: center;
+	color: white;
+	padding: 30px;
+	font-family: "Vanadine";
+	font-weight: bold;
+	color: #000000;
+	text-shadow: 1px 1px 1px #FFFFFF;
+}
+
+
+.efeito{
+	background-color: rgba(0,0,0,0.5);
+	padding: 80px 0 80px 0;
+
+
+}
+
+#menu2{
+	float: right;
+	margin-top: 100px;
+
+}
+
+#menu2 a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 30px;
+}
+
+#menu2 a:hover{
+	background-color: black;
+	color: white;
