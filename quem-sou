@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Quem Sou</title>
+		<link rel="stylesheet" type="text/css" href="quem sou.css">
+	</head>
+	
+	
+	<body>
+		<header>
+			<div id="menu">
+				<a href="Contato.html">Contato</a>
+				<a href="quem sou.html">Sobre Mim</a>
+				<a href="https://www.flickr.com/photos/147172621@N07/">Portfolio</a>
+				<a href="https://www.instagram.com/ddvalim/?hl=pt-br">Instagram</a>
+			</div>
+
+		
+			<div class="container">
+				<div id="logo">
+					<a href="index.html">
+						<img src="https://i.imgur.com/rdXYMtT.png" width="320" height="205">
+					</a>
+				</div>
+
+				<div id="menu2">
+					<a href="index.html">HOME</a>
+					<a href="quem sou.html">Quem Sou</a>
+					<a href="sdsd">Servicos</a>
+					<a href="Contato.html">Fale Comigo</a>
+				</div>			
+		</header>
+		<aside id="aside">
+			<h1>Quem sou eu?<h1>
+			<p align="justify">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sem tellus, consectetur vel quam vitae, ultrices ultrices eros. Sed sed egestas neque. Curabitur faucibus interdum magna, non imperdiet massa pharetra vitae. Nunc porttitor quis velit non elementum. Suspendisse vitae rutrum lorem. Mauris fermentum rhoncus nisi, nec sollicitudin quam gravida eu. Aliquam vulputate et metus a pharetra. Quisque in molestie enim. Proin suscipit purus eu libero fermentum aliquam et et lorem. Vivamus ut magna consectetur, scelerisque lorem vitae, mattis diam. Vestibulum est odio, fermentum eu tellus at, sodales varius odio.
+			<br>
+			<br>
+			Nam vel malesuada dolor. Aenean vel massa a quam ornare lacinia. Fusce vehicula ultricies purus ac fermentum. Phasellus consequat diam ac quam tristique dictum. Aliquam interdum facilisis auctor. Etiam eu sapien lorem. Morbi ligula ex, dapibus ac magna in, rhoncus eleifend nisl. Fusce sed leo fringilla, condimentum lectus eu, vulputate turpis. Vivamus ex nunc, tempus id fermentum euismod, mattis eget nunc. Suspendisse dapibus tincidunt nisi, eu lobortis eros ullamcorper et.
+			
+			</p>
+		</aside>
+		
+
+		<article>
+			<div id="foto1"><br></div>
+			<div id="foto2"></div>
+			<div id="foto3"></div>
+		</article>
+
+		<footer>
+			Desenvolvido por Diovana Rodrigues Valim
+			<br>
+			Copyright © 2019
+		</footer>
+	</body>
+</html>
