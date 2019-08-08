@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang='pt-br'>
+
+	<head>
+		<meta charset="utf8">
+		<title>Lumiere Photography</title>
+		<link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+		<header>
+			<div id="menu">
+				<a href="Contato.html">Contato</a>
+				<a href="quem sou.html">Sobre Mim</a>
+				<a href="https://www.flickr.com/photos/147172621@N07/">Portfolio</a>
+				<a href="https://www.instagram.com/ddvalim/?hl=pt-br">Instagram</a>
+			</div>
+
+		
+			<div class="container">
+				<div id="logo">
+					<a href="index.html">
+						<img src="https://i.imgur.com/rdXYMtT.png" width="320" height="205">
+					</a>
+				</div>
+
+				<div id="menu2">
+					<a href="index.html">HOME</a>
+					<a href="quem sou.html">Quem Sou</a>
+					<a href="sdsd">Servicos</a>
+					<a href="Contato.html">Fale Comigo</a>
+				</div>			
+			</div>
+
+		</header>
+		
+		<div id="div_principal">
+			<div class="efeito">
+				<div class="container">
+					<h1>Fotos por Diovana Rodrigues Valim</h1>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et lorem risus. Nulla scelerisque felis a quam bibendum, non gravida massa ultrices. Praesent nec egestas mi. Pellentesque dignissim commodo arcu eget aliquam. Ut ut nulla laoreet, bibendum mi pellentesque, ornare nulla. Praesent convallis efficitur blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed iaculis finibus convallis. Aenean quis posuere diam.
+					</p>
+				</div>
+			</div>
+		</div>
+	
+			<footer>
+				Desenvolvido por Diovana Rodrigues Valim
+				<br>
+				Copyright © 2019
+			</footer>
+		</div>
+	</body>
+</html>
